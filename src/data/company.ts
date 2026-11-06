@@ -33,7 +33,7 @@ export const COMPANY_INFO = {
   established: 2020,
   location: "Bangalore, India",
   address: "2F, 8, 16th Main Road, JC Nagar, Kurubarahalli, Bengaluru - 560086",
-  phone: "+91 73533 23187",
+  phone: "+91 8031643179",
   email: "info@vayuitsolutions.com",
   supportEmail: "support@vayuitsolutions.com",
   businessHours: "Monday to Saturday 09:00 AM – 06:00 PM",

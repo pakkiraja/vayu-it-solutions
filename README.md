@@ -82,7 +82,7 @@ For the comprehensive deployment guide covering Nginx reverse proxy, SSL, and AW
 - **Established**: 2020
 - **Location**: Bangalore, India
 - **Office Address**: 2F, 8, 16th Main Road, JC Nagar, Kurubarahalli, Bengaluru - 560086
-- **Phone**: +91 73533 23187
+- **Phone**: +91 8031643179
 - **Email**: info@vayuitsolutions.com
 - **Business Hours**: Monday to Saturday 09:00 AM – 06:00 PM (24/7 NOC/SOC On-Call)
 
